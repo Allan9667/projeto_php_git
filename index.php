@@ -1,3 +1,3 @@
 <?php 
-echo "Bem-vindo ao meu projeto em PHP!";
+echo "Colaborador adicionando nova funcionalidade."; 
 ?>
