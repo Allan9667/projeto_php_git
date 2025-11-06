@@ -1,1 +1,2 @@
-Olá, mundo!
+echo "Olá, mundo!" 
+echo "Nova linha de texto"
